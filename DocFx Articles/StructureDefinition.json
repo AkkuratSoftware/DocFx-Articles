@@ -1,0 +1,468 @@
+{
+  "BuildYaml": true,
+  "Items": [
+    {
+      "Name": "Operator Log",
+      "Items": [
+        {
+          "Name": "All Incidents",
+          "Items": []
+        },
+        {
+          "Name": "Shift Notes",
+          "Items": []
+        },
+        {
+          "Name": "Equipment Unit Outages",
+          "Items": []
+        },
+        {
+          "Name": "Public Safety",
+          "Items": []
+        },
+        {
+          "Name": "Dam Safety",
+          "Items": []
+        },
+        {
+          "Name": "Reports",
+          "Items": []
+        },
+        {
+          "Name": "Dashboards",
+          "Items": []
+        },
+        {
+          "Name": "Shifts",
+          "Items": []
+        },
+        {
+          "Name": "Unassigned AS7",
+          "Items": []
+        },
+        {
+          "Name": "Administration",
+          "Items": [
+
+            {
+              "Name": "Report Templates",
+              "Items": []
+            },
+            {
+              "Name": "Control Rooms",
+              "Items": []
+            },
+            {
+              "Name": "Lookup Human Precursors",
+              "Items": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Assets",
+      "Items": [
+        {
+          "Name": "Booms",
+          "Items": []
+        },
+        {
+          "Name": "SSTs",
+          "Items": []
+        },
+        {
+          "Name": "MOTs",
+          "Items": []
+        },
+        {
+          "Name": "Hydro Turbines",
+          "Items": []
+        },
+        {
+          "Name": "Runners",
+          "Items": []
+        },
+        {
+          "Name": "Power Intake",
+          "Items": []
+        },
+        {
+          "Name": "Drive Mechanism",
+          "Items": []
+        },
+        {
+          "Name": "Flow Control Equipment",
+          "Items": []
+        },
+        {
+          "Name": "Unit Breakers",
+          "Items": []
+        },
+        {
+          "Name": "Cooling Coils",
+          "Items": []
+        },
+        {
+          "Name": "Generator Turbine Bearings",
+          "Items": []
+        },
+        {
+          "Name": "Excitation Systems",
+          "Items": []
+        },
+        {
+          "Name": "Governor Controls",
+          "Items": []
+        },
+        {
+          "Name": "Generator",
+          "Items": []
+        },
+        {
+          "Name": "Administration",
+          "Items": [
+            {
+              "Name": "Permissions",
+              "Items": []
+            },
+            {
+              "Name": "Definitions",
+              "Items": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Media",
+      "Items": [
+        {
+          "Name": "Images",
+          "Items": []
+        },
+        {
+          "Name": "360 Images",
+          "Items": []
+        },
+        {
+          "Name": "Virtual Tours",
+          "Items": []
+        },
+        {
+          "Name": "Drone Video",
+          "Items": []
+        },
+        {
+          "Name": "Point Cloud",
+          "Items": []
+        },
+        {
+          "Name": "Other",
+          "Items": []
+        }
+      ]
+    },
+    {
+      "Name": "Incidents and Events",
+      "Items": [
+        {
+          "Name": "All Incidents",
+          "Items": []
+        },
+        {
+          "Name": "Shift Notes",
+          "Items": []
+        },
+        {
+          "Name": "Equipment Unit Outages",
+          "Items": []
+        },
+        {
+          "Name": "Public Safety",
+          "Items": []
+        },
+        {
+          "Name": "Dam Safety",
+          "Items": []
+        },
+        {
+          "Name": "Reports",
+          "Items": []
+        },
+        {
+          "Name": "Dashboards",
+          "Items": []
+        },
+        {
+          "Name": "Shifts",
+          "Items": []
+        },
+        {
+          "Name": "Unassigned AS7",
+          "Items": []
+        },
+        {
+          "Name": "Administration",
+          "Items": [
+
+            {
+              "Name": "Report Templates",
+              "Items": []
+            },
+            {
+              "Name": "Control Rooms",
+              "Items": []
+            },
+            {
+              "Name": "Lookup Human Precursors",
+              "Items": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Facilities",
+      "Items": [
+        {
+          "Name": "GS Overview",
+          "Items": []
+        },
+        {
+          "Name": "Generating Units",
+          "Items": []
+        },
+        {
+          "Name": "MCR Summary",
+          "Items": []
+        },
+        {
+          "Name": "MCR Data Management",
+          "Items": []
+        },
+        {
+          "Name": "Heritage Summary",
+          "Items": []
+        },
+        {
+          "Name": "Heritage Summary (Public)",
+          "Items": []
+        },
+        {
+          "Name": "Partnerrship Summary",
+          "Items": []
+        },
+        {
+          "Name": "Indigenous Relations",
+          "Items": []
+        },
+        {
+          "Name": "AS7 Facilities",
+          "Items": []
+        },
+        {
+          "Name": "AS7 Units",
+          "Items": []
+        },
+        {
+          "Name": "Environmental Approval",
+          "Items": []
+        },
+        {
+          "Name": "Documents",
+          "Items": []
+        },
+        {
+          "Name": "Media",
+          "Items": [
+            {
+              "Name": "Images",
+              "Items": []
+            },
+            {
+              "Name": "360 Images",
+              "Items": []
+            },
+            {
+              "Name": "Virtual Tours",
+              "Items": []
+            },
+            {
+              "Name": "Drone Video",
+              "Items": []
+            }
+          ]
+        },
+        {
+          "Name": "Administration",
+          "Items": [
+            {
+              "Name": "Permissions",
+              "Items": []
+            },
+            {
+              "Name": "Definitions",
+              "Items": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Dam Safety",
+      "Items": [
+        {
+          "Name": "Dams",
+          "Items": []
+        },
+        {
+          "Name": "Operation Groups",
+          "Items": []
+        },
+        {
+          "Name": "Work Centers",
+          "Items": []
+        },
+        {
+          "Name": "River Systems",
+          "Items": []
+        },
+        {
+          "Name": "Deficiencies",
+          "Items": []
+        },
+        {
+          "Name": "Flow Control Equipment",
+          "Items": []
+        },
+        {
+          "Name": "Drive Mechanisms",
+          "Items": []
+        },
+        {
+          "Name": "Instrumentation",
+          "Items": []
+        },
+        {
+          "Name": "Key Historical Events",
+          "Items": []
+        },
+        {
+          "Name": "Structures",
+          "Items": []
+        },
+        {
+          "Name": "Access Routes",
+          "Items": []
+        },
+        {
+          "Name": "Recommendations",
+          "Items": []
+        },
+        {
+          "Name": "Backup Systems",
+          "Items": []
+        },
+        {
+          "Name": "Dam Safety Reviews",
+          "Items": []
+        },
+        {
+          "Name": "Administration",
+          "Items": [
+            {
+              "Name": "Permissions",
+              "Items": []
+            },
+            {
+              "Name": "Definitions",
+              "Items": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Work Notes",
+      "Items": [
+        {
+          "Name": "Portfolios",
+          "Items": []
+        },
+        {
+          "Name": "Projects",
+          "Items": []
+        },
+        {
+          "Name": "Tasks",
+          "Items": []
+        },
+        {
+          "Name": "Notes",
+          "Items": []
+        },
+        {
+          "Name": "Reports",
+          "Items": []
+        },
+        {
+          "Name": "Dashboards",
+          "Items": [
+            {
+              "Name": "Portfolios",
+              "Items": []
+            },
+            {
+              "Name": "Projects",
+              "Items": []
+            },
+            {
+              "Name": "Tasks",
+              "Items": []
+            }
+          ]
+        },
+        {
+          "Name": "Media",
+          "Items": [
+            {
+              "Name": "All Media",
+              "Items": []
+            },
+            {
+              "Name": "Images",
+              "Items": []
+            },
+            {
+              "Name": "360 Images",
+              "Items": []
+            },
+            {
+              "Name": "Virtual Tours",
+              "Items": []
+            },
+            {
+              "Name": "Drone Video",
+              "Items": []
+            }
+          ]
+        },
+        {
+          "Name": "Administration",
+          "Items": [
+            {
+              "Name": "Dashboard Templates",
+              "Items": []
+            },
+            {
+              "Name": "Report Templates",
+              "Items": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

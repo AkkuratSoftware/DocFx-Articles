@@ -1,0 +1,15 @@
+C:\Source\AkkuratSoftware\DocFx Articles\DocFx Articles\bin\Debug\netcoreapp3.1\DocFx Articles.exe
+C:\Source\AkkuratSoftware\DocFx Articles\DocFx Articles\bin\Debug\netcoreapp3.1\DocFx Articles.deps.json
+C:\Source\AkkuratSoftware\DocFx Articles\DocFx Articles\bin\Debug\netcoreapp3.1\DocFx Articles.runtimeconfig.json
+C:\Source\AkkuratSoftware\DocFx Articles\DocFx Articles\bin\Debug\netcoreapp3.1\DocFx Articles.runtimeconfig.dev.json
+C:\Source\AkkuratSoftware\DocFx Articles\DocFx Articles\bin\Debug\netcoreapp3.1\DocFx Articles.dll
+C:\Source\AkkuratSoftware\DocFx Articles\DocFx Articles\bin\Debug\netcoreapp3.1\DocFx Articles.pdb
+C:\Source\AkkuratSoftware\DocFx Articles\DocFx Articles\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Source\AkkuratSoftware\DocFx Articles\DocFx Articles\obj\Debug\netcoreapp3.1\DocFx Articles.csproj.AssemblyReference.cache
+C:\Source\AkkuratSoftware\DocFx Articles\DocFx Articles\obj\Debug\netcoreapp3.1\DocFx Articles.AssemblyInfoInputs.cache
+C:\Source\AkkuratSoftware\DocFx Articles\DocFx Articles\obj\Debug\netcoreapp3.1\DocFx Articles.AssemblyInfo.cs
+C:\Source\AkkuratSoftware\DocFx Articles\DocFx Articles\obj\Debug\netcoreapp3.1\DocFx Articles.csproj.CoreCompileInputs.cache
+C:\Source\AkkuratSoftware\DocFx Articles\DocFx Articles\obj\Debug\netcoreapp3.1\DocFx Articles.csproj.CopyComplete
+C:\Source\AkkuratSoftware\DocFx Articles\DocFx Articles\obj\Debug\netcoreapp3.1\DocFx Articles.dll
+C:\Source\AkkuratSoftware\DocFx Articles\DocFx Articles\obj\Debug\netcoreapp3.1\DocFx Articles.pdb
+C:\Source\AkkuratSoftware\DocFx Articles\DocFx Articles\obj\Debug\netcoreapp3.1\DocFx Articles.genruntimeconfig.cache
